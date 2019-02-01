@@ -2,7 +2,7 @@ import os
 import unittest
 from common.Log import MyLog as Log
 import readConfig as readConfig
-import HTMLTestRunner
+import common.HTMLTestRunner as HTMLTestRunner
 from common.configEmail import MyEmail
 
 localReadConfig = readConfig.ReadConfig()
