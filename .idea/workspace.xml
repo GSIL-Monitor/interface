@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d89ad9b5-8668-42b3-b989-cdd95c800c68" name="Default" comment="默认加">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155216/output.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155216/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155331/output.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155331/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155727/output.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/20190201155727/report.html" />
+    <list default="true" id="d89ad9b5-8668-42b3-b989-cdd95c800c68" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="interfaceTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,6 +103,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -776,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549011390572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="默认加">
+      <created>1549012468077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549012468077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
