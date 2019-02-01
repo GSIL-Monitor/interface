@@ -1,0 +1,4 @@
+2019-02-01 15:53:31,746 - root - INFO - ********TEST START********
+2019-02-01 15:53:31,747 - root - ERROR - name 'HTMLTestRunner' is not defined
+2019-02-01 15:53:31,747 - root - INFO - *********TEST END*********
+2019-02-01 15:53:31,747 - root - INFO - Doesn't send report email to developer.
